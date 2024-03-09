@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.Form2.resources
